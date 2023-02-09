@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Prathmesh, Iam working as a Engineer Trainee in Tech IS"
+- 👋 Hi, I’m @Prathmesh.
 - Practice coding!!!
 - learn, Practise--- learn practise.
 - practise small codes.
